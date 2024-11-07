@@ -1,5 +1,6 @@
 # Gerador de QR Code - Versão 1
-![Screenshot-20241106161801](https://github.com/user-attachments/assets/44512317-3b47-46d7-82fe-09ff66e86a21)
+![Screenshot-20241106161801](https://github.com/user-attachments/assets/65cdf057-7d0d-479a-950a-023f17579ee2)
+
 
 Este é o projeto de criação de QR Codes que permite aos usuários gerar códigos QR personalizados para diversos fins. Utilizando uma interface simples e intuitiva, o aplicativo facilita a criação rápida de QR Codes a partir de URLs, textos, ou outros dados.
 
