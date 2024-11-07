@@ -26,7 +26,7 @@ Este é o projeto de criação de QR Codes que permite aos usuários gerar códi
 5. **Baixe a imagem** do QR Code para uso.
 
 ## Link do projecto para testar
-https://raimundobraz2.github.io/Gerador-de-QRCODE/
+[https://raimundobraz2.github.io/Gerador-de-QRCODE/](https://raimundobraz2.github.io/Gerador-de-QRCODE/)
 
 ## OBS
 Algumaas funcionalidades citadas ainda estão na fase de desenvolvimento
